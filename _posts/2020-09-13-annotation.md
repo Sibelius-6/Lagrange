@@ -1,6 +1,6 @@
 ---
 title: Tikz annotation
-tags: basic tikz
+tags: [basic, tikz]
 ---
 
 Sometimes we want to have some annotations around the text by drawing some arrows towards the text. By doing the following, we can have annotations around the text with tikz tricks.

@@ -1,6 +1,6 @@
 ---
 title: MUSIC 254 Listening Assignment
-tags: template
+tags: [template]
 ---
 
 Since we were impacted by COVID-19 [this term](https://notes.sibeliusp.com/term/1201), in [MUSIC 254](https://notes.sibeliusp.com/music/254) the listening quizzes and listening portion from the final exam were merged into this big listening assignment. We were allowed to be creative: letter, a series of texts... as long as we mentioned the info of three pieces.
