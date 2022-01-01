@@ -4,15 +4,18 @@ disqus:
   disqus_shortname: 'https-lenpaul-github-io-lagrange'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-1'
+google-ID: ''
 
 menu:
 - {name: 'About',   url: 'about.html'}
 - {name: 'Writing', url: 'writing.html'}
-- {name: 'Lecture Notes', url: 'https://n.sibp.ro'}
+# - {name: 'Lecture Notes', url: 'https://n.sibp.ro'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {icon: 'user-graduate', link: 'https://sibp.ro'}
+- {icon: 'blog',     link: 'https://b.sibp.ro'}
+- {icon: 'university',    link: 'https://n.sibp.ro'}
 - {icon: 'rss-square', link: '/feed.xml'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
